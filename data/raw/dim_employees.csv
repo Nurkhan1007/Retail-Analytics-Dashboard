@@ -1,0 +1,377 @@
+employee_id,employee_code,employee_name,position,hire_date,store_id
+1,EMP_001,Kayla Thomas,Store Manager,2023-02-05,1
+2,EMP_002,Douglas Edwards,Assistant Manager,2020-11-12,1
+3,EMP_003,Shannon Schroeder,Assistant Manager,2023-04-13,1
+4,EMP_004,Kathleen Ware,Senior Sales Associate,2019-07-26,1
+5,EMP_005,Robert Pearson,Senior Sales Associate,2023-11-14,1
+6,EMP_006,Christina Hardy,Senior Sales Associate,2020-02-11,1
+7,EMP_007,Kelly Cisneros,Sales Associate,2019-06-11,1
+8,EMP_008,Rebecca Carter,Sales Associate,2019-10-13,1
+9,EMP_009,Sabrina Davidson,Sales Associate,2020-07-18,1
+10,EMP_010,Christina Martin,Sales Associate,2024-03-06,1
+11,EMP_011,Jessica Scott,Sales Associate,2024-04-01,1
+12,EMP_012,Matthew Rich,Sales Associate,2021-03-26,1
+13,EMP_013,Lisa Martinez,Sales Associate,2018-07-09,1
+14,EMP_014,Dawn Munoz,Sales Associate,2023-07-12,1
+15,EMP_015,Catherine Newton,Sales Associate,2022-08-10,1
+16,EMP_016,Sarah Lewis,Cashier,2018-07-14,1
+17,EMP_017,Jennifer Carter,Cashier,2021-06-06,1
+18,EMP_018,Ricky Gillespie,Cashier,2019-07-16,1
+19,EMP_019,Brian Henson,Cashier,2020-02-27,1
+20,EMP_020,Sara Green,Cashier,2018-07-15,1
+21,EMP_021,James Scott,Store Manager,2022-10-25,2
+22,EMP_022,Kyle Collier,Assistant Manager,2022-07-25,2
+23,EMP_023,Christopher Mendoza,Senior Sales Associate,2022-09-01,2
+24,EMP_024,Craig Stevens,Sales Associate,2021-06-17,2
+25,EMP_025,Jerry Deleon,Sales Associate,2025-01-14,2
+26,EMP_026,Karen Wright,Sales Associate,2022-11-14,2
+27,EMP_027,Michelle Wilson,Sales Associate,2024-10-29,2
+28,EMP_028,James Payne,Cashier,2019-11-11,2
+29,EMP_029,Marc Ayala,Store Manager,2025-01-06,3
+30,EMP_030,Richard Rios,Senior Sales Associate,2020-09-09,3
+31,EMP_031,Bryan Richmond,Sales Associate,2024-07-20,3
+32,EMP_032,Leslie Smith,Sales Associate,2019-11-30,3
+33,EMP_033,Ruth Smith,Sales Associate,2020-02-07,3
+34,EMP_034,Christina Goodman,Sales Associate,2022-06-16,3
+35,EMP_035,Michele Bass,Sales Associate,2022-01-27,3
+36,EMP_036,Danielle Stevens,Cashier,2019-04-25,3
+37,EMP_037,Omar Schwartz,Cashier,2022-09-29,3
+38,EMP_038,John Jimenez,Cashier,2021-12-27,3
+39,EMP_039,Taylor Smith,Store Manager,2022-01-18,4
+40,EMP_040,Raven Reynolds,Senior Sales Associate,2022-08-31,4
+41,EMP_041,Christopher Berry,Senior Sales Associate,2018-07-06,4
+42,EMP_042,James Ward,Sales Associate,2019-07-09,4
+43,EMP_043,Allison Banks,Sales Associate,2018-11-22,4
+44,EMP_044,Jorge Howard,Sales Associate,2020-12-02,4
+45,EMP_045,David Rivera,Sales Associate,2024-05-11,4
+46,EMP_046,Michelle Brown,Sales Associate,2024-09-13,4
+47,EMP_047,Pamela Rivera,Cashier,2022-12-10,4
+48,EMP_048,Amy Coleman,Cashier,2022-02-23,4
+49,EMP_049,Haley Carrillo,Store Manager,2021-02-25,5
+50,EMP_050,Deborah Lewis,Senior Sales Associate,2018-06-28,5
+51,EMP_051,Barbara Shah,Senior Sales Associate,2018-06-12,5
+52,EMP_052,Cassandra Christensen,Sales Associate,2021-05-02,5
+53,EMP_053,Christopher Sherman,Sales Associate,2019-07-11,5
+54,EMP_054,Renee Davidson,Sales Associate,2021-05-08,5
+55,EMP_055,Margaret Barton,Sales Associate,2023-06-23,5
+56,EMP_056,Mrs. Nicole Young MD,Sales Associate,2021-02-15,5
+57,EMP_057,Krystal Hughes,Sales Associate,2023-06-26,5
+58,EMP_058,Amanda Thompson,Sales Associate,2024-09-15,5
+59,EMP_059,Victoria Petersen,Cashier,2019-01-24,5
+60,EMP_060,William Cisneros,Cashier,2019-02-08,5
+61,EMP_061,Patricia Guerra,Store Manager,2023-12-05,6
+62,EMP_062,Bruce Parrish,Senior Sales Associate,2021-12-03,6
+63,EMP_063,Omar Walton,Senior Sales Associate,2019-06-05,6
+64,EMP_064,Amanda Black,Sales Associate,2023-08-10,6
+65,EMP_065,Sandra Wright,Sales Associate,2019-07-06,6
+66,EMP_066,Kathy Butler,Sales Associate,2022-01-17,6
+67,EMP_067,Larry Hardy,Sales Associate,2021-06-05,6
+68,EMP_068,Nathaniel Sullivan,Sales Associate,2025-01-11,6
+69,EMP_069,Christopher Marshall,Sales Associate,2020-08-21,6
+70,EMP_070,Roger Smith,Cashier,2020-07-30,6
+71,EMP_071,Deborah Taylor,Cashier,2018-10-13,6
+72,EMP_072,Ronald Neal,Cashier,2021-08-08,6
+73,EMP_073,Alicia Taylor,Store Manager,2019-06-18,7
+74,EMP_074,Emily Gibson,Assistant Manager,2020-08-03,7
+75,EMP_075,Roberta Coleman,Senior Sales Associate,2019-11-04,7
+76,EMP_076,Jason Moreno,Sales Associate,2022-01-05,7
+77,EMP_077,Phillip Nelson,Sales Associate,2025-03-28,7
+78,EMP_078,Kevin Cummings,Sales Associate,2019-08-08,7
+79,EMP_079,Kelly Davenport,Sales Associate,2021-11-28,7
+80,EMP_080,Amanda Taylor,Sales Associate,2019-05-10,7
+81,EMP_081,Cheryl Kelley,Sales Associate,2021-10-09,7
+82,EMP_082,Kimberly Gomez,Sales Associate,2022-02-26,7
+83,EMP_083,Mr. Christopher Torres,Cashier,2019-12-25,7
+84,EMP_084,William Fernandez,Cashier,2023-03-26,7
+85,EMP_085,Kenneth Hunt,Cashier,2022-12-30,7
+86,EMP_086,Morgan Perez,Store Manager,2018-12-01,8
+87,EMP_087,Jessica Taylor,Assistant Manager,2023-08-03,8
+88,EMP_088,Mrs. Michele Stephens,Senior Sales Associate,2021-08-30,8
+89,EMP_089,Daniel Dickson,Senior Sales Associate,2019-06-06,8
+90,EMP_090,Lynn Graham,Senior Sales Associate,2021-06-27,8
+91,EMP_091,Tammy Mills,Senior Sales Associate,2021-06-27,8
+92,EMP_092,Laura Serrano,Sales Associate,2022-01-27,8
+93,EMP_093,Henry Roberts,Sales Associate,2021-02-14,8
+94,EMP_094,Tiffany Santana,Sales Associate,2021-04-14,8
+95,EMP_095,Taylor Murphy,Sales Associate,2023-11-06,8
+96,EMP_096,Barbara Brown,Sales Associate,2023-08-07,8
+97,EMP_097,Michele Morris,Sales Associate,2023-01-06,8
+98,EMP_098,Alexander Allen,Sales Associate,2019-03-24,8
+99,EMP_099,Alan Johnson,Sales Associate,2021-08-03,8
+100,EMP_100,Robin Castillo,Sales Associate,2022-12-07,8
+101,EMP_101,Adam Santos,Cashier,2018-12-18,8
+102,EMP_102,Dylan Webb,Cashier,2020-08-06,8
+103,EMP_103,Ashley Sherman,Cashier,2023-02-06,8
+104,EMP_104,Robert Ballard,Store Manager,2024-06-21,9
+105,EMP_105,Karen Liu,Assistant Manager,2019-09-22,9
+106,EMP_106,Danielle Perry,Senior Sales Associate,2021-06-13,9
+107,EMP_107,Steven Levine,Sales Associate,2019-06-19,9
+108,EMP_108,Michael Rivera,Sales Associate,2019-11-02,9
+109,EMP_109,Juan Smith,Sales Associate,2023-03-20,9
+110,EMP_110,Stephanie Wallace,Cashier,2024-01-16,9
+111,EMP_111,Laura Warner,Store Manager,2021-01-26,10
+112,EMP_112,Michelle Simmons,Senior Sales Associate,2025-05-27,10
+113,EMP_113,Timothy Cooper Jr.,Senior Sales Associate,2023-10-29,10
+114,EMP_114,Taylor Kaufman,Sales Associate,2020-02-13,10
+115,EMP_115,Michael Hudson,Sales Associate,2021-07-03,10
+116,EMP_116,Eileen Riley,Sales Associate,2022-12-30,10
+117,EMP_117,Angela Greene,Sales Associate,2023-07-07,10
+118,EMP_118,Gail Medina,Sales Associate,2024-04-07,10
+119,EMP_119,Lynn Lowery,Cashier,2022-07-18,10
+120,EMP_120,Eric Robinson,Cashier,2022-10-08,10
+121,EMP_121,Linda Holden,Store Manager,2020-04-26,11
+122,EMP_122,Nancy Valdez,Senior Sales Associate,2022-06-01,11
+123,EMP_123,Tammy Taylor,Sales Associate,2021-05-02,11
+124,EMP_124,Anthony Buckley,Sales Associate,2019-11-08,11
+125,EMP_125,Emily Moreno,Sales Associate,2019-12-13,11
+126,EMP_126,Derek Petersen DDS,Sales Associate,2020-10-26,11
+127,EMP_127,Austin Nelson,Cashier,2018-06-28,11
+128,EMP_128,Edward Lewis,Cashier,2021-11-20,11
+129,EMP_129,Edward Rose,Store Manager,2019-07-20,12
+130,EMP_130,Bobby Patterson,Assistant Manager,2021-03-14,12
+131,EMP_131,Beth Salazar,Senior Sales Associate,2020-08-03,12
+132,EMP_132,Sharon Cortez,Senior Sales Associate,2022-01-01,12
+133,EMP_133,Jonathan Stokes,Sales Associate,2023-06-20,12
+134,EMP_134,Gregory Jackson,Sales Associate,2024-12-05,12
+135,EMP_135,Michael Newman,Sales Associate,2021-08-17,12
+136,EMP_136,Gary Smith,Sales Associate,2023-03-21,12
+137,EMP_137,Douglas Dickson,Sales Associate,2022-10-21,12
+138,EMP_138,Jessica Mason,Sales Associate,2019-02-26,12
+139,EMP_139,Tracey Stevens,Cashier,2019-01-13,12
+140,EMP_140,Dr. Barbara Garcia,Cashier,2021-01-15,12
+141,EMP_141,Scott Shepherd,Store Manager,2019-10-12,13
+142,EMP_142,Jonathan Chan,Assistant Manager,2019-01-09,13
+143,EMP_143,David Pacheco,Senior Sales Associate,2020-08-16,13
+144,EMP_144,Christopher Bell,Sales Associate,2020-06-14,13
+145,EMP_145,Suzanne Smith,Sales Associate,2021-01-29,13
+146,EMP_146,Lindsay Garcia,Sales Associate,2021-12-17,13
+147,EMP_147,George Bruce,Cashier,2020-05-30,13
+148,EMP_148,Juan Walton,Store Manager,2019-06-29,14
+149,EMP_149,Bradley Bowman,Senior Sales Associate,2022-10-27,14
+150,EMP_150,Autumn Davis,Sales Associate,2021-08-16,14
+151,EMP_151,Linda Foley,Sales Associate,2019-11-27,14
+152,EMP_152,Sandra Ortiz,Sales Associate,2022-06-06,14
+153,EMP_153,Carmen Hardy,Sales Associate,2025-01-02,14
+154,EMP_154,Tanya Miller,Cashier,2021-03-25,14
+155,EMP_155,Yesenia Dean,Cashier,2021-08-22,14
+156,EMP_156,Erin Richards,Store Manager,2019-06-08,15
+157,EMP_157,Anthony Simmons,Senior Sales Associate,2023-01-20,15
+158,EMP_158,Mary Lewis,Senior Sales Associate,2023-08-14,15
+159,EMP_159,Amanda Jensen,Sales Associate,2024-03-10,15
+160,EMP_160,Rachael Parker,Sales Associate,2022-09-08,15
+161,EMP_161,Catherine Pearson,Sales Associate,2023-10-06,15
+162,EMP_162,Amanda Moss,Sales Associate,2021-03-09,15
+163,EMP_163,Amanda Trevino,Sales Associate,2019-06-14,15
+164,EMP_164,Debbie Frazier,Sales Associate,2021-07-23,15
+165,EMP_165,Judy Fowler,Cashier,2023-05-15,15
+166,EMP_166,Stephanie Leblanc,Cashier,2021-01-02,15
+167,EMP_167,Sabrina Webb,Cashier,2023-08-21,15
+168,EMP_168,Miguel Smith Jr.,Store Manager,2023-10-24,16
+169,EMP_169,Christopher Bright,Assistant Manager,2020-01-25,16
+170,EMP_170,Andrea Rojas,Assistant Manager,2018-10-25,16
+171,EMP_171,William Potts,Senior Sales Associate,2020-07-30,16
+172,EMP_172,Willie Molina,Senior Sales Associate,2020-05-30,16
+173,EMP_173,Cody Gilbert,Sales Associate,2023-12-27,16
+174,EMP_174,Scott Mills,Sales Associate,2021-10-11,16
+175,EMP_175,Zachary Kelly,Sales Associate,2018-09-30,16
+176,EMP_176,Mr. Terry Smith,Sales Associate,2019-05-09,16
+177,EMP_177,Denise Lutz,Sales Associate,2020-12-24,16
+178,EMP_178,Dennis Figueroa,Sales Associate,2019-08-28,16
+179,EMP_179,Daniel Roberts,Sales Associate,2020-12-22,16
+180,EMP_180,Katherine Powell,Sales Associate,2024-10-01,16
+181,EMP_181,Gary Meyer,Sales Associate,2019-10-25,16
+182,EMP_182,Jessica Adams,Sales Associate,2023-06-12,16
+183,EMP_183,Dylan Mora,Sales Associate,2023-10-07,16
+184,EMP_184,Jesus Dodson,Cashier,2023-01-04,16
+185,EMP_185,Gabrielle Williams,Cashier,2023-08-12,16
+186,EMP_186,Albert Newman,Cashier,2019-03-07,16
+187,EMP_187,Amanda Gray,Cashier,2022-04-18,16
+188,EMP_188,Brooke Kim,Store Manager,2021-12-26,17
+189,EMP_189,Erin Fowler,Senior Sales Associate,2022-12-02,17
+190,EMP_190,Jeanette Jones,Senior Sales Associate,2019-04-05,17
+191,EMP_191,Brandon Perez,Sales Associate,2023-10-20,17
+192,EMP_192,Samantha Hayes,Sales Associate,2019-01-31,17
+193,EMP_193,Emily Marshall,Sales Associate,2024-07-09,17
+194,EMP_194,Courtney Hernandez,Sales Associate,2021-01-11,17
+195,EMP_195,Jill Chavez,Sales Associate,2022-03-10,17
+196,EMP_196,Mckenzie Taylor,Sales Associate,2021-11-03,17
+197,EMP_197,James Whitney,Sales Associate,2023-09-11,17
+198,EMP_198,Thomas Henderson,Cashier,2024-05-07,17
+199,EMP_199,Richard Brown,Cashier,2023-08-29,17
+200,EMP_200,Kristin Johnson,Cashier,2022-06-05,17
+201,EMP_201,Seth Whitehead,Store Manager,2022-05-15,18
+202,EMP_202,Robin Morris,Assistant Manager,2020-03-15,18
+203,EMP_203,Xavier Bond,Senior Sales Associate,2022-02-04,18
+204,EMP_204,Heather Brown,Sales Associate,2024-01-15,18
+205,EMP_205,Jonathan Vasquez,Sales Associate,2020-03-12,18
+206,EMP_206,Scott Nguyen,Sales Associate,2020-09-17,18
+207,EMP_207,Adam Johnson,Sales Associate,2024-09-17,18
+208,EMP_208,Kristen Patterson,Sales Associate,2023-03-13,18
+209,EMP_209,Jack Cardenas,Cashier,2018-08-06,18
+210,EMP_210,Angela Arnold,Cashier,2024-08-06,18
+211,EMP_211,Ellen Schultz,Store Manager,2025-02-13,19
+212,EMP_212,Melissa Pham,Assistant Manager,2020-09-02,19
+213,EMP_213,Eric Johnson,Senior Sales Associate,2024-12-10,19
+214,EMP_214,Robert Mckinney,Sales Associate,2022-11-02,19
+215,EMP_215,Paula Donovan,Sales Associate,2022-08-20,19
+216,EMP_216,Pamela Keith,Sales Associate,2018-06-13,19
+217,EMP_217,Kevin Chapman,Sales Associate,2025-01-02,19
+218,EMP_218,Rachel Harrell,Cashier,2019-12-13,19
+219,EMP_219,Carla Washington,Cashier,2019-09-26,19
+220,EMP_220,Deborah Jennings,Store Manager,2020-12-22,20
+221,EMP_221,Jose Smith,Assistant Manager,2023-08-09,20
+222,EMP_222,John Shaffer,Senior Sales Associate,2023-07-01,20
+223,EMP_223,Melissa Conner,Senior Sales Associate,2020-01-19,20
+224,EMP_224,Patrick Robinson,Senior Sales Associate,2019-02-01,20
+225,EMP_225,Teresa Golden,Senior Sales Associate,2024-01-28,20
+226,EMP_226,Mrs. Laura Ramsey,Sales Associate,2018-10-04,20
+227,EMP_227,Edward Thomas,Sales Associate,2022-06-16,20
+228,EMP_228,Nancy Nguyen,Sales Associate,2020-06-04,20
+229,EMP_229,Brian Hale,Sales Associate,2023-01-17,20
+230,EMP_230,Paula Haynes,Sales Associate,2024-10-24,20
+231,EMP_231,Brenda Colon,Sales Associate,2021-11-29,20
+232,EMP_232,Douglas Wagner,Sales Associate,2025-03-18,20
+233,EMP_233,Catherine Shaw,Sales Associate,2019-11-12,20
+234,EMP_234,Brian Mitchell,Cashier,2020-05-12,20
+235,EMP_235,Joseph Leblanc,Cashier,2024-12-20,20
+236,EMP_236,Megan Mccoy,Cashier,2023-10-15,20
+237,EMP_237,Keith Young,Store Manager,2021-07-16,21
+238,EMP_238,Bryan Harris,Assistant Manager,2020-11-10,21
+239,EMP_239,Sarah Johnston,Senior Sales Associate,2022-02-12,21
+240,EMP_240,Jerry Parks,Sales Associate,2024-10-09,21
+241,EMP_241,Robert Perez,Sales Associate,2020-02-06,21
+242,EMP_242,Katherine Lewis,Sales Associate,2019-11-29,21
+243,EMP_243,Dr. Joe Carter,Cashier,2025-05-12,21
+244,EMP_244,Amy Newton,Store Manager,2025-05-12,22
+245,EMP_245,Jennifer Smith,Assistant Manager,2021-11-19,22
+246,EMP_246,Nancy Johnson,Senior Sales Associate,2023-02-23,22
+247,EMP_247,Eric Delacruz,Senior Sales Associate,2021-01-30,22
+248,EMP_248,Jason Matthews,Senior Sales Associate,2021-12-13,22
+249,EMP_249,Margaret Ashley,Sales Associate,2020-05-26,22
+250,EMP_250,Debra Greer,Sales Associate,2018-11-21,22
+251,EMP_251,Heather Morris,Sales Associate,2022-02-12,22
+252,EMP_252,Jason Watkins,Sales Associate,2020-07-29,22
+253,EMP_253,Austin Price,Sales Associate,2024-12-08,22
+254,EMP_254,Philip Scott,Sales Associate,2020-06-16,22
+255,EMP_255,Nancy Bennett,Sales Associate,2024-08-17,22
+256,EMP_256,Aaron Gentry,Sales Associate,2019-06-01,22
+257,EMP_257,Tammy Donovan,Cashier,2018-07-18,22
+258,EMP_258,Tammy Hansen,Cashier,2019-04-21,22
+259,EMP_259,Emily Hamilton,Cashier,2022-07-23,22
+260,EMP_260,Joseph Johnson,Cashier,2025-01-24,22
+261,EMP_261,David Romero,Cashier,2024-03-22,22
+262,EMP_262,Justin Chen,Store Manager,2018-11-08,23
+263,EMP_263,Summer Martinez,Assistant Manager,2019-09-17,23
+264,EMP_264,Mr. Christopher Johnston MD,Senior Sales Associate,2021-03-02,23
+265,EMP_265,Amanda Noble,Senior Sales Associate,2020-03-24,23
+266,EMP_266,Stephanie Murray,Senior Sales Associate,2018-08-03,23
+267,EMP_267,Stacey Ochoa,Senior Sales Associate,2021-03-25,23
+268,EMP_268,Brianna Jones,Sales Associate,2024-02-12,23
+269,EMP_269,Lisa Lee,Sales Associate,2025-02-25,23
+270,EMP_270,Ashlee Hogan,Sales Associate,2023-07-11,23
+271,EMP_271,Brenda Ross,Sales Associate,2021-12-06,23
+272,EMP_272,Lauren Hawkins,Sales Associate,2021-08-14,23
+273,EMP_273,David Murphy,Sales Associate,2022-01-03,23
+274,EMP_274,Wesley Crawford,Sales Associate,2025-01-29,23
+275,EMP_275,Kelly Marquez,Sales Associate,2022-02-07,23
+276,EMP_276,Judy Montgomery,Sales Associate,2022-07-10,23
+277,EMP_277,Stephanie Sullivan,Cashier,2024-08-10,23
+278,EMP_278,Erik Knapp,Cashier,2024-12-29,23
+279,EMP_279,Cathy Edwards,Cashier,2024-12-12,23
+280,EMP_280,Andrea Robinson,Cashier,2023-04-01,23
+281,EMP_281,Angela Brady,Store Manager,2020-04-25,24
+282,EMP_282,Mark Ortiz,Assistant Manager,2020-02-02,24
+283,EMP_283,Joyce Nash,Senior Sales Associate,2024-12-09,24
+284,EMP_284,Amanda Greene,Sales Associate,2024-05-17,24
+285,EMP_285,Kyle Trujillo,Sales Associate,2018-11-07,24
+286,EMP_286,Toni Rodriguez,Sales Associate,2021-04-28,24
+287,EMP_287,Kathleen Thomas,Sales Associate,2024-04-24,24
+288,EMP_288,Stacey Mcdonald,Sales Associate,2023-04-17,24
+289,EMP_289,Sean Jackson,Cashier,2019-04-25,24
+290,EMP_290,Mary Petersen,Cashier,2020-07-02,24
+291,EMP_291,Allison Patel,Cashier,2018-12-03,24
+292,EMP_292,Ashley Chen,Store Manager,2020-02-24,25
+293,EMP_293,Lisa Pugh,Senior Sales Associate,2019-06-22,25
+294,EMP_294,Jennifer Castaneda,Sales Associate,2023-06-10,25
+295,EMP_295,Ronald Boyd,Sales Associate,2018-06-08,25
+296,EMP_296,Rachel Beck,Sales Associate,2022-03-27,25
+297,EMP_297,Susan Warner,Sales Associate,2019-05-03,25
+298,EMP_298,Jared Smith,Cashier,2019-03-21,25
+299,EMP_299,Gregory Calhoun,Cashier,2024-07-20,25
+300,EMP_300,Kathleen Campbell,Store Manager,2019-10-29,26
+301,EMP_301,Jim Wade,Assistant Manager,2023-08-16,26
+302,EMP_302,Sonya Williams,Senior Sales Associate,2022-04-17,26
+303,EMP_303,Tracy Cain,Senior Sales Associate,2021-07-10,26
+304,EMP_304,Zachary Smith,Senior Sales Associate,2021-05-06,26
+305,EMP_305,Ashlee Torres,Senior Sales Associate,2018-10-03,26
+306,EMP_306,Rachel Whitney,Sales Associate,2020-07-18,26
+307,EMP_307,Brenda Miranda,Sales Associate,2023-12-11,26
+308,EMP_308,Patrick Matthews,Sales Associate,2020-12-20,26
+309,EMP_309,Jenny Crawford,Sales Associate,2020-11-28,26
+310,EMP_310,Rebecca Gross,Sales Associate,2023-05-21,26
+311,EMP_311,Donna Moody,Sales Associate,2019-02-28,26
+312,EMP_312,Nancy Robinson,Sales Associate,2021-08-01,26
+313,EMP_313,Diana Young,Sales Associate,2021-03-26,26
+314,EMP_314,Philip Stanton,Sales Associate,2018-10-18,26
+315,EMP_315,Michelle Ellis,Cashier,2019-03-18,26
+316,EMP_316,Patricia Vasquez,Cashier,2023-02-17,26
+317,EMP_317,Jordan Pena,Cashier,2025-05-21,26
+318,EMP_318,Susan Doyle,Cashier,2021-11-27,26
+319,EMP_319,Thomas Smith,Store Manager,2020-09-01,27
+320,EMP_320,Jennifer Anderson,Assistant Manager,2019-01-31,27
+321,EMP_321,Jessica Mcdonald,Senior Sales Associate,2022-01-09,27
+322,EMP_322,Jason Murray,Senior Sales Associate,2021-04-16,27
+323,EMP_323,Mrs. Lori Curtis PhD,Sales Associate,2024-01-21,27
+324,EMP_324,Lauren Larson,Sales Associate,2025-01-29,27
+325,EMP_325,Vernon Patrick,Sales Associate,2019-11-03,27
+326,EMP_326,Andrew Welch,Sales Associate,2023-06-20,27
+327,EMP_327,Jim Greene,Sales Associate,2022-01-29,27
+328,EMP_328,Jasmine Leach DDS,Sales Associate,2023-08-07,27
+329,EMP_329,Ebony Paul,Sales Associate,2023-10-27,27
+330,EMP_330,Christine Jackson,Sales Associate,2022-10-13,27
+331,EMP_331,Ian Bishop,Sales Associate,2023-02-09,27
+332,EMP_332,Cassandra Roach,Sales Associate,2024-03-24,27
+333,EMP_333,Kevin Anderson Jr.,Cashier,2019-07-12,27
+334,EMP_334,Pamela Roach,Cashier,2022-11-30,27
+335,EMP_335,Stephen White,Cashier,2022-12-20,27
+336,EMP_336,Joel Mcgee,Store Manager,2023-11-10,28
+337,EMP_337,Karen Dorsey,Senior Sales Associate,2021-10-15,28
+338,EMP_338,Jamie Whitney,Senior Sales Associate,2025-02-28,28
+339,EMP_339,Sean Mercer,Sales Associate,2023-03-05,28
+340,EMP_340,Lisa Ayala,Sales Associate,2021-06-07,28
+341,EMP_341,Samantha Mason,Sales Associate,2018-09-12,28
+342,EMP_342,Ann Johnston,Sales Associate,2019-11-29,28
+343,EMP_343,William Riddle,Sales Associate,2024-03-28,28
+344,EMP_344,Amy Stephenson,Cashier,2019-03-25,28
+345,EMP_345,Jennifer Powell,Cashier,2018-08-07,28
+346,EMP_346,Susan Perkins,Cashier,2024-08-18,28
+347,EMP_347,Shawn Schwartz,Store Manager,2025-02-03,29
+348,EMP_348,Crystal Macdonald,Assistant Manager,2023-10-20,29
+349,EMP_349,Christopher Stewart,Assistant Manager,2019-01-06,29
+350,EMP_350,Tina Wilson,Senior Sales Associate,2021-09-28,29
+351,EMP_351,Jennifer Watson,Senior Sales Associate,2020-01-20,29
+352,EMP_352,Andrew Sloan,Senior Sales Associate,2018-12-27,29
+353,EMP_353,Joshua Ortega,Sales Associate,2019-01-03,29
+354,EMP_354,Elizabeth Turner,Sales Associate,2022-01-04,29
+355,EMP_355,Mrs. Leah Booth MD,Sales Associate,2022-09-06,29
+356,EMP_356,Bruce Reed,Sales Associate,2021-11-23,29
+357,EMP_357,Daniel Williams,Sales Associate,2019-05-18,29
+358,EMP_358,Stephanie Mccormick,Sales Associate,2024-12-09,29
+359,EMP_359,Elizabeth Duffy,Sales Associate,2019-10-09,29
+360,EMP_360,Deborah Caldwell,Sales Associate,2020-08-19,29
+361,EMP_361,Mia Perry,Sales Associate,2019-12-11,29
+362,EMP_362,David Miranda,Sales Associate,2022-12-11,29
+363,EMP_363,Bradley Miller,Sales Associate,2023-12-28,29
+364,EMP_364,Evan Estrada,Sales Associate,2022-04-28,29
+365,EMP_365,David Johnson,Cashier,2025-04-20,29
+366,EMP_366,Karen Ward,Cashier,2024-06-23,29
+367,EMP_367,David Brown,Cashier,2023-04-07,29
+368,EMP_368,Scott Stanley,Cashier,2025-05-28,29
+369,EMP_369,Taylor Johnson,Cashier,2019-08-03,29
+370,EMP_370,William Stevens,Store Manager,2019-07-08,30
+371,EMP_371,Cassandra Wall,Senior Sales Associate,2020-11-03,30
+372,EMP_372,Derek Cole,Sales Associate,2021-09-17,30
+373,EMP_373,Meagan Hendricks,Sales Associate,2020-03-24,30
+374,EMP_374,Nicole Watts,Sales Associate,2022-10-10,30
+375,EMP_375,Alexandra Whitney,Sales Associate,2018-07-03,30
+376,EMP_376,Brenda Diaz,Cashier,2018-06-27,30

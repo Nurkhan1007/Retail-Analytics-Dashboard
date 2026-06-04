@@ -1,0 +1,401 @@
+product_id,product_code,product_name,category,subcategory,brand,brand_segment,unit_price,margin_pct,unit_cost
+1,PROD_001,PureLife Premium Detergents 001,Cleaning,Detergents,PureLife,Standard,25.56,0.28,18.4
+2,PROD_002,BrightHome Comfort Detergents 002,Cleaning,Detergents,BrightHome,Standard,25.32,0.31,17.47
+3,PROD_003,PrimeHouse Essential Detergents 003,Cleaning,Detergents,PrimeHouse,Premium,24.51,0.32,16.67
+4,PROD_004,EasyCare Ergonomic Detergents 004,Cleaning,Detergents,EasyCare,Budget,8.9,0.32,6.05
+5,PROD_005,PrimeHouse Comfort Detergents 005,Cleaning,Detergents,PrimeHouse,Premium,40.95,0.25,30.71
+6,PROD_006,UrbanHome Durable Detergents 006,Cleaning,Detergents,UrbanHome,Premium,41.99,0.22,32.75
+7,PROD_007,NovaHouse Durable Detergents 007,Cleaning,Detergents,NovaHouse,Premium,11.01,0.35,7.16
+8,PROD_008,CleanMax Smart Detergents 008,Cleaning,Detergents,CleanMax,Budget,9.06,0.32,6.16
+9,PROD_009,HomePro Ergonomic Detergents 009,Cleaning,Detergents,HomePro,Standard,27.22,0.3,19.05
+10,PROD_010,CleanMax Professional Detergents 010,Cleaning,Detergents,CleanMax,Budget,10.39,0.21,8.21
+11,PROD_011,DailyChoice Organic Detergents 011,Cleaning,Detergents,DailyChoice,Budget,5.93,0.31,4.09
+12,PROD_012,NovaHouse Professional Detergents 012,Cleaning,Detergents,NovaHouse,Premium,11.01,0.28,7.93
+13,PROD_013,DailyChoice Professional Detergents 013,Cleaning,Detergents,DailyChoice,Budget,10.55,0.3,7.38
+14,PROD_014,DailyChoice Advanced Detergents 014,Cleaning,Detergents,DailyChoice,Budget,18.83,0.29,13.37
+15,PROD_015,UrbanHome Ergonomic Surface Cleaners 015,Cleaning,Surface Cleaners,UrbanHome,Premium,18.34,0.28,13.2
+16,PROD_016,PrimeHouse Comfort Surface Cleaners 016,Cleaning,Surface Cleaners,PrimeHouse,Premium,25.61,0.22,19.98
+17,PROD_017,HomePro Ergonomic Surface Cleaners 017,Cleaning,Surface Cleaners,HomePro,Standard,20.58,0.23,15.85
+18,PROD_018,PrimeHouse Modern Surface Cleaners 018,Cleaning,Surface Cleaners,PrimeHouse,Premium,22.38,0.23,17.23
+19,PROD_019,SmartHome Professional Surface Cleaners 019,Cleaning,Surface Cleaners,SmartHome,Standard,17.57,0.34,11.6
+20,PROD_020,FamilyPlus Advanced Surface Cleaners 020,Cleaning,Surface Cleaners,FamilyPlus,Budget,16.68,0.21,13.18
+21,PROD_021,PrimeHouse Ergonomic Surface Cleaners 021,Cleaning,Surface Cleaners,PrimeHouse,Premium,24.77,0.23,19.07
+22,PROD_022,HomePro Comfort Surface Cleaners 022,Cleaning,Surface Cleaners,HomePro,Standard,11.17,0.32,7.6
+23,PROD_023,NovaHouse Modern Surface Cleaners 023,Cleaning,Surface Cleaners,NovaHouse,Premium,33.53,0.32,22.8
+24,PROD_024,SmartHome Eco-Friendly Surface Cleaners 024,Cleaning,Surface Cleaners,SmartHome,Standard,30.68,0.27,22.4
+25,PROD_025,UrbanHome Premium Surface Cleaners 025,Cleaning,Surface Cleaners,UrbanHome,Premium,26.39,0.31,18.21
+26,PROD_026,GreenLeaf Organic Surface Cleaners 026,Cleaning,Surface Cleaners,GreenLeaf,Standard,25.37,0.24,19.28
+27,PROD_027,BrightHome Comfort Surface Cleaners 027,Cleaning,Surface Cleaners,BrightHome,Standard,23.82,0.34,15.72
+28,PROD_028,DailyChoice Professional Surface Cleaners 028,Cleaning,Surface Cleaners,DailyChoice,Budget,13.18,0.3,9.23
+29,PROD_029,PrimeHouse Durable Air Fresheners 029,Cleaning,Air Fresheners,PrimeHouse,Premium,6.9,0.27,5.04
+30,PROD_030,CleanMax Lightweight Air Fresheners 030,Cleaning,Air Fresheners,CleanMax,Budget,9.17,0.21,7.24
+31,PROD_031,GreenLeaf Premium Air Fresheners 031,Cleaning,Air Fresheners,GreenLeaf,Standard,5.22,0.27,3.81
+32,PROD_032,PrimeHouse Smart Air Fresheners 032,Cleaning,Air Fresheners,PrimeHouse,Premium,19.25,0.26,14.24
+33,PROD_033,HomePro Essential Air Fresheners 033,Cleaning,Air Fresheners,HomePro,Standard,22.43,0.21,17.72
+34,PROD_034,FreshWay Durable Air Fresheners 034,Cleaning,Air Fresheners,FreshWay,Budget,17.79,0.3,12.45
+35,PROD_035,EasyCare Multi-Purpose Air Fresheners 035,Cleaning,Air Fresheners,EasyCare,Budget,22.42,0.24,17.04
+36,PROD_036,EcoLiving Premium Air Fresheners 036,Cleaning,Air Fresheners,EcoLiving,Budget,23.79,0.23,18.32
+37,PROD_037,PrimeHouse Smart Air Fresheners 037,Cleaning,Air Fresheners,PrimeHouse,Premium,33.23,0.3,23.26
+38,PROD_038,PrimeHouse Organic Air Fresheners 038,Cleaning,Air Fresheners,PrimeHouse,Premium,40.38,0.3,28.27
+39,PROD_039,CleanMax Smart Air Fresheners 039,Cleaning,Air Fresheners,CleanMax,Budget,24.77,0.24,18.83
+40,PROD_040,FamilyPlus Essential Air Fresheners 040,Cleaning,Air Fresheners,FamilyPlus,Budget,10.26,0.24,7.8
+41,PROD_041,BrightHome Premium Air Fresheners 041,Cleaning,Air Fresheners,BrightHome,Standard,26.03,0.24,19.78
+42,PROD_042,NovaHouse Compact Air Fresheners 042,Cleaning,Air Fresheners,NovaHouse,Premium,24.51,0.26,18.14
+43,PROD_043,FamilyPlus Smart Dishwashing 043,Cleaning,Dishwashing,FamilyPlus,Budget,20.69,0.25,15.52
+44,PROD_044,EasyCare Organic Dishwashing 044,Cleaning,Dishwashing,EasyCare,Budget,16.04,0.24,12.19
+45,PROD_045,PrimeHouse Ergonomic Dishwashing 045,Cleaning,Dishwashing,PrimeHouse,Premium,42.28,0.26,31.29
+46,PROD_046,PureLife Durable Dishwashing 046,Cleaning,Dishwashing,PureLife,Standard,14.41,0.21,11.38
+47,PROD_047,NovaHouse Professional Dishwashing 047,Cleaning,Dishwashing,NovaHouse,Premium,13.44,0.24,10.21
+48,PROD_048,UrbanHome Essential Dishwashing 048,Cleaning,Dishwashing,UrbanHome,Premium,6.7,0.24,5.09
+49,PROD_049,EcoLiving Essential Dishwashing 049,Cleaning,Dishwashing,EcoLiving,Budget,20.39,0.25,15.29
+50,PROD_050,SmartHome Eco-Friendly Dishwashing 050,Cleaning,Dishwashing,SmartHome,Standard,18.58,0.25,13.93
+51,PROD_051,PureLife Lightweight Dishwashing 051,Cleaning,Dishwashing,PureLife,Standard,25.99,0.35,16.89
+52,PROD_052,UrbanHome Ergonomic Dishwashing 052,Cleaning,Dishwashing,UrbanHome,Premium,16.79,0.28,12.09
+53,PROD_053,UrbanHome Smart Dishwashing 053,Cleaning,Dishwashing,UrbanHome,Premium,29.99,0.33,20.09
+54,PROD_054,NovaHouse Professional Dishwashing 054,Cleaning,Dishwashing,NovaHouse,Premium,7.41,0.26,5.48
+55,PROD_055,EasyCare Eco-Friendly Dishwashing 055,Cleaning,Dishwashing,EasyCare,Budget,4.46,0.21,3.52
+56,PROD_056,FreshWay Advanced Dishwashing 056,Cleaning,Dishwashing,FreshWay,Budget,17.28,0.34,11.4
+57,PROD_057,DailyChoice Ergonomic Laundry Care 057,Cleaning,Laundry Care,DailyChoice,Budget,19.7,0.21,15.56
+58,PROD_058,NovaHouse Modern Laundry Care 058,Cleaning,Laundry Care,NovaHouse,Premium,25.58,0.31,17.65
+59,PROD_059,PureLife Professional Laundry Care 059,Cleaning,Laundry Care,PureLife,Standard,26.3,0.25,19.73
+60,PROD_060,DailyChoice Essential Laundry Care 060,Cleaning,Laundry Care,DailyChoice,Budget,17.55,0.2,14.04
+61,PROD_061,EasyCare Compact Laundry Care 061,Cleaning,Laundry Care,EasyCare,Budget,10.15,0.27,7.41
+62,PROD_062,FreshWay Organic Laundry Care 062,Cleaning,Laundry Care,FreshWay,Budget,18.14,0.32,12.34
+63,PROD_063,BrightHome Eco-Friendly Laundry Care 063,Cleaning,Laundry Care,BrightHome,Standard,29.13,0.29,20.68
+64,PROD_064,DailyChoice Ergonomic Laundry Care 064,Cleaning,Laundry Care,DailyChoice,Budget,5.35,0.28,3.85
+65,PROD_065,EasyCare Smart Laundry Care 065,Cleaning,Laundry Care,EasyCare,Budget,20.84,0.3,14.59
+66,PROD_066,PrimeHouse Smart Laundry Care 066,Cleaning,Laundry Care,PrimeHouse,Premium,41.22,0.32,28.03
+67,PROD_067,EasyCare Eco-Friendly Laundry Care 067,Cleaning,Laundry Care,EasyCare,Budget,8.2,0.22,6.4
+68,PROD_068,DailyChoice Durable Laundry Care 068,Cleaning,Laundry Care,DailyChoice,Budget,5.9,0.31,4.07
+69,PROD_069,PrimeHouse Premium Laundry Care 069,Cleaning,Laundry Care,PrimeHouse,Premium,15.2,0.34,10.03
+70,PROD_070,PrimeHouse Professional Laundry Care 070,Cleaning,Laundry Care,PrimeHouse,Premium,21.67,0.32,14.74
+71,PROD_071,PrimeHouse Ergonomic Cookware 071,Kitchen,Cookware,PrimeHouse,Premium,99.42,0.36,63.63
+72,PROD_072,PrimeHouse Classic Cookware 072,Kitchen,Cookware,PrimeHouse,Premium,141.47,0.47,74.98
+73,PROD_073,NovaHouse Advanced Cookware 073,Kitchen,Cookware,NovaHouse,Premium,121.89,0.43,69.48
+74,PROD_074,NovaHouse Ergonomic Cookware 074,Kitchen,Cookware,NovaHouse,Premium,45.81,0.41,27.03
+75,PROD_075,FreshWay Eco-Friendly Cookware 075,Kitchen,Cookware,FreshWay,Budget,41.49,0.39,25.31
+76,PROD_076,UrbanHome Durable Cookware 076,Kitchen,Cookware,UrbanHome,Premium,231.07,0.46,124.78
+77,PROD_077,UrbanHome Compact Cookware 077,Kitchen,Cookware,UrbanHome,Premium,103.83,0.43,59.18
+78,PROD_078,HomePro Classic Cookware 078,Kitchen,Cookware,HomePro,Standard,61.07,0.34,40.31
+79,PROD_079,NovaHouse Lightweight Cookware 079,Kitchen,Cookware,NovaHouse,Premium,177.62,0.36,113.68
+80,PROD_080,CleanMax Durable Cookware 080,Kitchen,Cookware,CleanMax,Budget,48.1,0.37,30.3
+81,PROD_081,UrbanHome Professional Cookware 081,Kitchen,Cookware,UrbanHome,Premium,122.73,0.32,83.46
+82,PROD_082,FamilyPlus Premium Cookware 082,Kitchen,Cookware,FamilyPlus,Budget,61.34,0.32,41.71
+83,PROD_083,BrightHome Comfort Cookware 083,Kitchen,Cookware,BrightHome,Standard,61.99,0.36,39.67
+84,PROD_084,FreshWay Lightweight Cookware 084,Kitchen,Cookware,FreshWay,Budget,17.51,0.35,11.38
+85,PROD_085,PrimeHouse Compact Utensils 085,Kitchen,Utensils,PrimeHouse,Premium,163.76,0.43,93.34
+86,PROD_086,EcoLiving Modern Utensils 086,Kitchen,Utensils,EcoLiving,Budget,33.63,0.44,18.83
+87,PROD_087,FreshWay Modern Utensils 087,Kitchen,Utensils,FreshWay,Budget,29.93,0.48,15.56
+88,PROD_088,GreenLeaf Organic Utensils 088,Kitchen,Utensils,GreenLeaf,Standard,130.22,0.4,78.13
+89,PROD_089,SmartHome Comfort Utensils 089,Kitchen,Utensils,SmartHome,Standard,132.17,0.46,71.37
+90,PROD_090,EcoLiving Ergonomic Utensils 090,Kitchen,Utensils,EcoLiving,Budget,93.22,0.48,48.47
+91,PROD_091,PrimeHouse Multi-Purpose Utensils 091,Kitchen,Utensils,PrimeHouse,Premium,89.5,0.38,55.49
+92,PROD_092,EcoLiving Comfort Utensils 092,Kitchen,Utensils,EcoLiving,Budget,82.57,0.35,53.67
+93,PROD_093,DailyChoice Comfort Utensils 093,Kitchen,Utensils,DailyChoice,Budget,34.9,0.38,21.64
+94,PROD_094,PureLife Premium Utensils 094,Kitchen,Utensils,PureLife,Standard,151.27,0.41,89.25
+95,PROD_095,PrimeHouse Professional Utensils 095,Kitchen,Utensils,PrimeHouse,Premium,55.02,0.35,35.76
+96,PROD_096,PureLife Essential Utensils 096,Kitchen,Utensils,PureLife,Standard,84.52,0.49,43.11
+97,PROD_097,CleanMax Essential Utensils 097,Kitchen,Utensils,CleanMax,Budget,55.54,0.34,36.66
+98,PROD_098,GreenLeaf Multi-Purpose Utensils 098,Kitchen,Utensils,GreenLeaf,Standard,41.55,0.36,26.59
+99,PROD_099,NovaHouse Classic Food Storage 099,Kitchen,Food Storage,NovaHouse,Premium,68.35,0.31,47.16
+100,PROD_100,GreenLeaf Lightweight Food Storage 100,Kitchen,Food Storage,GreenLeaf,Standard,96.52,0.3,67.56
+101,PROD_101,BrightHome Essential Food Storage 101,Kitchen,Food Storage,BrightHome,Standard,94.4,0.36,60.42
+102,PROD_102,BrightHome Compact Food Storage 102,Kitchen,Food Storage,BrightHome,Standard,163.81,0.49,83.54
+103,PROD_103,FamilyPlus Multi-Purpose Food Storage 103,Kitchen,Food Storage,FamilyPlus,Budget,80.8,0.33,54.14
+104,PROD_104,UrbanHome Organic Food Storage 104,Kitchen,Food Storage,UrbanHome,Premium,67.69,0.44,37.91
+105,PROD_105,UrbanHome Eco-Friendly Food Storage 105,Kitchen,Food Storage,UrbanHome,Premium,64.87,0.41,38.27
+106,PROD_106,NovaHouse Multi-Purpose Food Storage 106,Kitchen,Food Storage,NovaHouse,Premium,139.28,0.3,97.5
+107,PROD_107,EcoLiving Eco-Friendly Food Storage 107,Kitchen,Food Storage,EcoLiving,Budget,87.85,0.32,59.74
+108,PROD_108,NovaHouse Lightweight Food Storage 108,Kitchen,Food Storage,NovaHouse,Premium,179.47,0.4,107.68
+109,PROD_109,EcoLiving Comfort Food Storage 109,Kitchen,Food Storage,EcoLiving,Budget,77.5,0.44,43.4
+110,PROD_110,SmartHome Ergonomic Food Storage 110,Kitchen,Food Storage,SmartHome,Standard,174.07,0.39,106.18
+111,PROD_111,DailyChoice Modern Food Storage 111,Kitchen,Food Storage,DailyChoice,Budget,25.27,0.45,13.9
+112,PROD_112,FamilyPlus Classic Food Storage 112,Kitchen,Food Storage,FamilyPlus,Budget,107.08,0.32,72.81
+113,PROD_113,UrbanHome Organic Small Appliances 113,Kitchen,Small Appliances,UrbanHome,Premium,210.49,0.38,130.5
+114,PROD_114,NovaHouse Lightweight Small Appliances 114,Kitchen,Small Appliances,NovaHouse,Premium,46.77,0.41,27.59
+115,PROD_115,PrimeHouse Lightweight Small Appliances 115,Kitchen,Small Appliances,PrimeHouse,Premium,213.39,0.31,147.24
+116,PROD_116,PureLife Essential Small Appliances 116,Kitchen,Small Appliances,PureLife,Standard,155.0,0.44,86.8
+117,PROD_117,FreshWay Organic Small Appliances 117,Kitchen,Small Appliances,FreshWay,Budget,73.32,0.35,47.66
+118,PROD_118,FreshWay Essential Small Appliances 118,Kitchen,Small Appliances,FreshWay,Budget,76.87,0.46,41.51
+119,PROD_119,HomePro Classic Small Appliances 119,Kitchen,Small Appliances,HomePro,Standard,109.29,0.44,61.2
+120,PROD_120,PrimeHouse Organic Small Appliances 120,Kitchen,Small Appliances,PrimeHouse,Premium,79.82,0.3,55.87
+121,PROD_121,FamilyPlus Advanced Small Appliances 121,Kitchen,Small Appliances,FamilyPlus,Budget,17.16,0.31,11.84
+122,PROD_122,NovaHouse Classic Small Appliances 122,Kitchen,Small Appliances,NovaHouse,Premium,122.59,0.38,76.01
+123,PROD_123,GreenLeaf Classic Small Appliances 123,Kitchen,Small Appliances,GreenLeaf,Standard,136.7,0.46,73.82
+124,PROD_124,PureLife Classic Small Appliances 124,Kitchen,Small Appliances,PureLife,Standard,130.2,0.34,85.93
+125,PROD_125,PrimeHouse Classic Small Appliances 125,Kitchen,Small Appliances,PrimeHouse,Premium,153.06,0.44,85.71
+126,PROD_126,PrimeHouse Essential Small Appliances 126,Kitchen,Small Appliances,PrimeHouse,Premium,122.29,0.46,66.04
+127,PROD_127,UrbanHome Compact Tableware 127,Kitchen,Tableware,UrbanHome,Premium,34.77,0.32,23.64
+128,PROD_128,FamilyPlus Smart Tableware 128,Kitchen,Tableware,FamilyPlus,Budget,83.77,0.5,41.88
+129,PROD_129,FreshWay Durable Tableware 129,Kitchen,Tableware,FreshWay,Budget,81.47,0.37,51.33
+130,PROD_130,NovaHouse Organic Tableware 130,Kitchen,Tableware,NovaHouse,Premium,134.47,0.35,87.41
+131,PROD_131,EcoLiving Essential Tableware 131,Kitchen,Tableware,EcoLiving,Budget,82.22,0.36,52.62
+132,PROD_132,UrbanHome Essential Tableware 132,Kitchen,Tableware,UrbanHome,Premium,74.82,0.31,51.63
+133,PROD_133,UrbanHome Premium Tableware 133,Kitchen,Tableware,UrbanHome,Premium,52.77,0.48,27.44
+134,PROD_134,EasyCare Advanced Tableware 134,Kitchen,Tableware,EasyCare,Budget,34.05,0.3,23.83
+135,PROD_135,HomePro Organic Tableware 135,Kitchen,Tableware,HomePro,Standard,118.35,0.42,68.64
+136,PROD_136,CleanMax Essential Tableware 136,Kitchen,Tableware,CleanMax,Budget,115.14,0.45,63.33
+137,PROD_137,BrightHome Eco-Friendly Tableware 137,Kitchen,Tableware,BrightHome,Standard,22.73,0.44,12.73
+138,PROD_138,HomePro Classic Tableware 138,Kitchen,Tableware,HomePro,Standard,71.5,0.31,49.33
+139,PROD_139,EcoLiving Classic Tableware 139,Kitchen,Tableware,EcoLiving,Budget,89.35,0.49,45.57
+140,PROD_140,CleanMax Classic Tableware 140,Kitchen,Tableware,CleanMax,Budget,67.34,0.46,36.36
+141,PROD_141,UrbanHome Classic Bedding 141,Textile,Bedding,UrbanHome,Premium,42.62,0.35,27.7
+142,PROD_142,PureLife Lightweight Bedding 142,Textile,Bedding,PureLife,Standard,95.61,0.42,55.45
+143,PROD_143,UrbanHome Premium Bedding 143,Textile,Bedding,UrbanHome,Premium,103.67,0.41,61.17
+144,PROD_144,UrbanHome Organic Bedding 144,Textile,Bedding,UrbanHome,Premium,68.04,0.42,39.46
+145,PROD_145,FamilyPlus Essential Bedding 145,Textile,Bedding,FamilyPlus,Budget,41.74,0.33,27.97
+146,PROD_146,EasyCare Organic Bedding 146,Textile,Bedding,EasyCare,Budget,46.85,0.31,32.33
+147,PROD_147,EcoLiving Multi-Purpose Bedding 147,Textile,Bedding,EcoLiving,Budget,42.1,0.26,31.15
+148,PROD_148,GreenLeaf Eco-Friendly Bedding 148,Textile,Bedding,GreenLeaf,Standard,67.29,0.39,41.05
+149,PROD_149,EcoLiving Ergonomic Bedding 149,Textile,Bedding,EcoLiving,Budget,37.07,0.36,23.72
+150,PROD_150,UrbanHome Compact Bedding 150,Textile,Bedding,UrbanHome,Premium,105.69,0.45,58.13
+151,PROD_151,DailyChoice Ergonomic Bedding 151,Textile,Bedding,DailyChoice,Budget,15.4,0.35,10.01
+152,PROD_152,PrimeHouse Professional Bedding 152,Textile,Bedding,PrimeHouse,Premium,61.12,0.43,34.84
+153,PROD_153,FamilyPlus Durable Bedding 153,Textile,Bedding,FamilyPlus,Budget,64.92,0.42,37.65
+154,PROD_154,GreenLeaf Smart Towels 154,Textile,Towels,GreenLeaf,Standard,32.36,0.36,20.71
+155,PROD_155,SmartHome Smart Towels 155,Textile,Towels,SmartHome,Standard,52.26,0.42,30.31
+156,PROD_156,NovaHouse Professional Towels 156,Textile,Towels,NovaHouse,Premium,108.19,0.29,76.81
+157,PROD_157,FamilyPlus Durable Towels 157,Textile,Towels,FamilyPlus,Budget,12.87,0.41,7.59
+158,PROD_158,NovaHouse Durable Towels 158,Textile,Towels,NovaHouse,Premium,40.98,0.44,22.95
+159,PROD_159,PrimeHouse Comfort Towels 159,Textile,Towels,PrimeHouse,Premium,30.14,0.38,18.69
+160,PROD_160,PureLife Premium Towels 160,Textile,Towels,PureLife,Standard,68.06,0.36,43.56
+161,PROD_161,CleanMax Essential Towels 161,Textile,Towels,CleanMax,Budget,28.74,0.32,19.54
+162,PROD_162,PureLife Classic Towels 162,Textile,Towels,PureLife,Standard,25.57,0.43,14.57
+163,PROD_163,UrbanHome Multi-Purpose Towels 163,Textile,Towels,UrbanHome,Premium,138.15,0.27,100.85
+164,PROD_164,EcoLiving Professional Towels 164,Textile,Towels,EcoLiving,Budget,68.98,0.27,50.36
+165,PROD_165,HomePro Smart Towels 165,Textile,Towels,HomePro,Standard,56.2,0.36,35.97
+166,PROD_166,ComfortLine Advanced Towels 166,Textile,Towels,ComfortLine,Standard,38.02,0.27,27.75
+167,PROD_167,GreenLeaf Professional Curtains 167,Textile,Curtains,GreenLeaf,Standard,27.83,0.31,19.2
+168,PROD_168,HomePro Multi-Purpose Curtains 168,Textile,Curtains,HomePro,Standard,89.21,0.27,65.12
+169,PROD_169,NovaHouse Essential Curtains 169,Textile,Curtains,NovaHouse,Premium,111.47,0.38,69.11
+170,PROD_170,FreshWay Eco-Friendly Curtains 170,Textile,Curtains,FreshWay,Budget,58.44,0.35,37.99
+171,PROD_171,BrightHome Advanced Curtains 171,Textile,Curtains,BrightHome,Standard,58.92,0.42,34.17
+172,PROD_172,NovaHouse Comfort Curtains 172,Textile,Curtains,NovaHouse,Premium,27.89,0.34,18.41
+173,PROD_173,UrbanHome Comfort Curtains 173,Textile,Curtains,UrbanHome,Premium,57.96,0.43,33.04
+174,PROD_174,FreshWay Smart Curtains 174,Textile,Curtains,FreshWay,Budget,75.08,0.32,51.05
+175,PROD_175,UrbanHome Organic Curtains 175,Textile,Curtains,UrbanHome,Premium,122.01,0.39,74.43
+176,PROD_176,UrbanHome Compact Curtains 176,Textile,Curtains,UrbanHome,Premium,100.21,0.27,73.15
+177,PROD_177,NovaHouse Essential Curtains 177,Textile,Curtains,NovaHouse,Premium,29.31,0.41,17.29
+178,PROD_178,FamilyPlus Durable Curtains 178,Textile,Curtains,FamilyPlus,Budget,53.18,0.28,38.29
+179,PROD_179,ComfortLine Multi-Purpose Curtains 179,Textile,Curtains,ComfortLine,Standard,97.79,0.33,65.52
+180,PROD_180,ComfortLine Compact Blankets 180,Textile,Blankets,ComfortLine,Standard,52.24,0.3,36.57
+181,PROD_181,UrbanHome Essential Blankets 181,Textile,Blankets,UrbanHome,Premium,58.45,0.39,35.65
+182,PROD_182,PureLife Smart Blankets 182,Textile,Blankets,PureLife,Standard,99.9,0.45,54.95
+183,PROD_183,CleanMax Lightweight Blankets 183,Textile,Blankets,CleanMax,Budget,16.34,0.27,11.93
+184,PROD_184,HomePro Lightweight Blankets 184,Textile,Blankets,HomePro,Standard,23.65,0.36,15.14
+185,PROD_185,NovaHouse Lightweight Blankets 185,Textile,Blankets,NovaHouse,Premium,79.65,0.3,55.76
+186,PROD_186,UrbanHome Ergonomic Blankets 186,Textile,Blankets,UrbanHome,Premium,41.18,0.34,27.18
+187,PROD_187,BrightHome Multi-Purpose Blankets 187,Textile,Blankets,BrightHome,Standard,88.74,0.33,59.46
+188,PROD_188,NovaHouse Professional Blankets 188,Textile,Blankets,NovaHouse,Premium,26.69,0.37,16.81
+189,PROD_189,DailyChoice Premium Blankets 189,Textile,Blankets,DailyChoice,Budget,13.88,0.35,9.02
+190,PROD_190,BrightHome Compact Blankets 190,Textile,Blankets,BrightHome,Standard,107.82,0.35,70.08
+191,PROD_191,NovaHouse Classic Blankets 191,Textile,Blankets,NovaHouse,Premium,97.03,0.39,59.19
+192,PROD_192,UrbanHome Advanced Blankets 192,Textile,Blankets,UrbanHome,Premium,147.97,0.43,84.34
+193,PROD_193,FreshWay Lightweight Pillows 193,Textile,Pillows,FreshWay,Budget,76.77,0.36,49.13
+194,PROD_194,PureLife Multi-Purpose Pillows 194,Textile,Pillows,PureLife,Standard,89.87,0.28,64.71
+195,PROD_195,ComfortLine Lightweight Pillows 195,Textile,Pillows,ComfortLine,Standard,19.82,0.38,12.29
+196,PROD_196,HomePro Smart Pillows 196,Textile,Pillows,HomePro,Standard,80.73,0.32,54.9
+197,PROD_197,HomePro Multi-Purpose Pillows 197,Textile,Pillows,HomePro,Standard,57.98,0.34,38.27
+198,PROD_198,PrimeHouse Classic Pillows 198,Textile,Pillows,PrimeHouse,Premium,61.24,0.43,34.91
+199,PROD_199,SmartHome Durable Pillows 199,Textile,Pillows,SmartHome,Standard,67.26,0.41,39.68
+200,PROD_200,PrimeHouse Comfort Pillows 200,Textile,Pillows,PrimeHouse,Premium,26.27,0.44,14.71
+201,PROD_201,EasyCare Durable Pillows 201,Textile,Pillows,EasyCare,Budget,71.02,0.28,51.13
+202,PROD_202,GreenLeaf Organic Pillows 202,Textile,Pillows,GreenLeaf,Standard,51.96,0.33,34.81
+203,PROD_203,FreshWay Eco-Friendly Pillows 203,Textile,Pillows,FreshWay,Budget,49.04,0.26,36.29
+204,PROD_204,UrbanHome Organic Pillows 204,Textile,Pillows,UrbanHome,Premium,61.78,0.28,44.48
+205,PROD_205,SmartHome Comfort Pillows 205,Textile,Pillows,SmartHome,Standard,70.73,0.25,53.05
+206,PROD_206,PureLife Eco-Friendly Personal Care 206,Bathroom,Personal Care,PureLife,Standard,17.26,0.34,11.39
+207,PROD_207,HomePro Lightweight Personal Care 207,Bathroom,Personal Care,HomePro,Standard,26.74,0.39,16.31
+208,PROD_208,CleanMax Premium Personal Care 208,Bathroom,Personal Care,CleanMax,Budget,13.78,0.28,9.92
+209,PROD_209,GreenLeaf Premium Personal Care 209,Bathroom,Personal Care,GreenLeaf,Standard,23.78,0.4,14.27
+210,PROD_210,BrightHome Essential Personal Care 210,Bathroom,Personal Care,BrightHome,Standard,54.45,0.34,35.94
+211,PROD_211,FreshWay Essential Personal Care 211,Bathroom,Personal Care,FreshWay,Budget,11.57,0.24,8.79
+212,PROD_212,NovaHouse Essential Personal Care 212,Bathroom,Personal Care,NovaHouse,Premium,8.31,0.37,5.24
+213,PROD_213,UrbanHome Premium Personal Care 213,Bathroom,Personal Care,UrbanHome,Premium,18.8,0.37,11.84
+214,PROD_214,FamilyPlus Durable Personal Care 214,Bathroom,Personal Care,FamilyPlus,Budget,34.21,0.4,20.53
+215,PROD_215,FamilyPlus Premium Personal Care 215,Bathroom,Personal Care,FamilyPlus,Budget,34.04,0.34,22.47
+216,PROD_216,PrimeHouse Ergonomic Personal Care 216,Bathroom,Personal Care,PrimeHouse,Premium,26.83,0.26,19.85
+217,PROD_217,NovaHouse Professional Personal Care 217,Bathroom,Personal Care,NovaHouse,Premium,51.64,0.3,36.15
+218,PROD_218,FamilyPlus Eco-Friendly Personal Care 218,Bathroom,Personal Care,FamilyPlus,Budget,33.11,0.21,26.16
+219,PROD_219,GreenLeaf Compact Bath Accessories 219,Bathroom,Bath Accessories,GreenLeaf,Standard,24.75,0.38,15.35
+220,PROD_220,HomePro Essential Bath Accessories 220,Bathroom,Bath Accessories,HomePro,Standard,27.24,0.39,16.62
+221,PROD_221,ComfortLine Comfort Bath Accessories 221,Bathroom,Bath Accessories,ComfortLine,Standard,34.73,0.3,24.31
+222,PROD_222,FreshWay Organic Bath Accessories 222,Bathroom,Bath Accessories,FreshWay,Budget,9.25,0.25,6.94
+223,PROD_223,SmartHome Professional Bath Accessories 223,Bathroom,Bath Accessories,SmartHome,Standard,25.56,0.29,18.15
+224,PROD_224,UrbanHome Multi-Purpose Bath Accessories 224,Bathroom,Bath Accessories,UrbanHome,Premium,45.62,0.33,30.57
+225,PROD_225,NovaHouse Compact Bath Accessories 225,Bathroom,Bath Accessories,NovaHouse,Premium,42.66,0.39,26.02
+226,PROD_226,NovaHouse Modern Bath Accessories 226,Bathroom,Bath Accessories,NovaHouse,Premium,45.0,0.23,34.65
+227,PROD_227,HomePro Advanced Bath Accessories 227,Bathroom,Bath Accessories,HomePro,Standard,44.67,0.29,31.72
+228,PROD_228,CleanMax Durable Bath Accessories 228,Bathroom,Bath Accessories,CleanMax,Budget,12.5,0.37,7.88
+229,PROD_229,FamilyPlus Modern Bath Accessories 229,Bathroom,Bath Accessories,FamilyPlus,Budget,15.02,0.26,11.11
+230,PROD_230,FreshWay Multi-Purpose Bath Accessories 230,Bathroom,Bath Accessories,FreshWay,Budget,13.23,0.38,8.2
+231,PROD_231,ComfortLine Durable Bath Accessories 231,Bathroom,Bath Accessories,ComfortLine,Standard,32.82,0.33,21.99
+232,PROD_232,NovaHouse Durable Shower Products 232,Bathroom,Shower Products,NovaHouse,Premium,46.46,0.26,34.38
+233,PROD_233,PrimeHouse Essential Shower Products 233,Bathroom,Shower Products,PrimeHouse,Premium,67.57,0.3,47.3
+234,PROD_234,DailyChoice Essential Shower Products 234,Bathroom,Shower Products,DailyChoice,Budget,19.4,0.25,14.55
+235,PROD_235,EcoLiving Multi-Purpose Shower Products 235,Bathroom,Shower Products,EcoLiving,Budget,23.64,0.3,16.55
+236,PROD_236,UrbanHome Modern Shower Products 236,Bathroom,Shower Products,UrbanHome,Premium,54.84,0.36,35.1
+237,PROD_237,EasyCare Comfort Shower Products 237,Bathroom,Shower Products,EasyCare,Budget,16.02,0.36,10.25
+238,PROD_238,ComfortLine Organic Shower Products 238,Bathroom,Shower Products,ComfortLine,Standard,35.99,0.39,21.95
+239,PROD_239,FreshWay Classic Shower Products 239,Bathroom,Shower Products,FreshWay,Budget,6.95,0.31,4.8
+240,PROD_240,SmartHome Advanced Shower Products 240,Bathroom,Shower Products,SmartHome,Standard,23.55,0.21,18.6
+241,PROD_241,UrbanHome Essential Shower Products 241,Bathroom,Shower Products,UrbanHome,Premium,54.58,0.22,42.57
+242,PROD_242,FreshWay Organic Shower Products 242,Bathroom,Shower Products,FreshWay,Budget,38.38,0.35,24.95
+243,PROD_243,HomePro Eco-Friendly Shower Products 243,Bathroom,Shower Products,HomePro,Standard,39.4,0.24,29.94
+244,PROD_244,HomePro Smart Shower Products 244,Bathroom,Shower Products,HomePro,Standard,7.65,0.31,5.28
+245,PROD_245,PureLife Eco-Friendly Toilet Accessories 245,Bathroom,Toilet Accessories,PureLife,Standard,44.25,0.23,34.07
+246,PROD_246,PureLife Modern Toilet Accessories 246,Bathroom,Toilet Accessories,PureLife,Standard,22.86,0.33,15.32
+247,PROD_247,PureLife Professional Toilet Accessories 247,Bathroom,Toilet Accessories,PureLife,Standard,22.92,0.27,16.73
+248,PROD_248,NovaHouse Professional Toilet Accessories 248,Bathroom,Toilet Accessories,NovaHouse,Premium,58.89,0.36,37.69
+249,PROD_249,EasyCare Modern Toilet Accessories 249,Bathroom,Toilet Accessories,EasyCare,Budget,7.86,0.21,6.21
+250,PROD_250,BrightHome Essential Toilet Accessories 250,Bathroom,Toilet Accessories,BrightHome,Standard,5.16,0.27,3.77
+251,PROD_251,PrimeHouse Essential Toilet Accessories 251,Bathroom,Toilet Accessories,PrimeHouse,Premium,7.67,0.36,4.91
+252,PROD_252,FreshWay Advanced Toilet Accessories 252,Bathroom,Toilet Accessories,FreshWay,Budget,34.29,0.24,26.06
+253,PROD_253,HomePro Classic Toilet Accessories 253,Bathroom,Toilet Accessories,HomePro,Standard,29.7,0.28,21.38
+254,PROD_254,PureLife Ergonomic Toilet Accessories 254,Bathroom,Toilet Accessories,PureLife,Standard,26.66,0.37,16.8
+255,PROD_255,PureLife Professional Toilet Accessories 255,Bathroom,Toilet Accessories,PureLife,Standard,49.77,0.38,30.86
+256,PROD_256,HomePro Organic Toilet Accessories 256,Bathroom,Toilet Accessories,HomePro,Standard,13.98,0.28,10.07
+257,PROD_257,CleanMax Classic Toilet Accessories 257,Bathroom,Toilet Accessories,CleanMax,Budget,19.62,0.38,12.16
+258,PROD_258,DailyChoice Compact Cleaning Tools 258,Bathroom,Cleaning Tools,DailyChoice,Budget,13.89,0.22,10.83
+259,PROD_259,EcoLiving Modern Cleaning Tools 259,Bathroom,Cleaning Tools,EcoLiving,Budget,36.0,0.32,24.48
+260,PROD_260,FreshWay Comfort Cleaning Tools 260,Bathroom,Cleaning Tools,FreshWay,Budget,13.86,0.24,10.53
+261,PROD_261,HomePro Durable Cleaning Tools 261,Bathroom,Cleaning Tools,HomePro,Standard,23.66,0.35,15.38
+262,PROD_262,FamilyPlus Multi-Purpose Cleaning Tools 262,Bathroom,Cleaning Tools,FamilyPlus,Budget,39.95,0.27,29.16
+263,PROD_263,ComfortLine Eco-Friendly Cleaning Tools 263,Bathroom,Cleaning Tools,ComfortLine,Standard,38.96,0.25,29.22
+264,PROD_264,HomePro Classic Cleaning Tools 264,Bathroom,Cleaning Tools,HomePro,Standard,34.74,0.33,23.28
+265,PROD_265,PrimeHouse Ergonomic Cleaning Tools 265,Bathroom,Cleaning Tools,PrimeHouse,Premium,49.17,0.23,37.86
+266,PROD_266,ComfortLine Multi-Purpose Cleaning Tools 266,Bathroom,Cleaning Tools,ComfortLine,Standard,41.64,0.34,27.48
+267,PROD_267,CleanMax Multi-Purpose Cleaning Tools 267,Bathroom,Cleaning Tools,CleanMax,Budget,12.99,0.31,8.96
+268,PROD_268,UrbanHome Eco-Friendly Cleaning Tools 268,Bathroom,Cleaning Tools,UrbanHome,Premium,38.54,0.37,24.28
+269,PROD_269,PrimeHouse Organic Cleaning Tools 269,Bathroom,Cleaning Tools,PrimeHouse,Premium,13.86,0.39,8.45
+270,PROD_270,EasyCare Professional Cleaning Tools 270,Bathroom,Cleaning Tools,EasyCare,Budget,19.17,0.26,14.19
+271,PROD_271,CleanMax Multi-Purpose Boxes 271,Storage,Boxes,CleanMax,Budget,61.32,0.35,39.86
+272,PROD_272,BrightHome Multi-Purpose Boxes 272,Storage,Boxes,BrightHome,Standard,70.6,0.27,51.54
+273,PROD_273,HomePro Professional Boxes 273,Storage,Boxes,HomePro,Standard,44.92,0.37,28.3
+274,PROD_274,PrimeHouse Lightweight Boxes 274,Storage,Boxes,PrimeHouse,Premium,76.89,0.35,49.98
+275,PROD_275,UrbanHome Classic Boxes 275,Storage,Boxes,UrbanHome,Premium,81.54,0.45,44.85
+276,PROD_276,FamilyPlus Lightweight Boxes 276,Storage,Boxes,FamilyPlus,Budget,31.25,0.32,21.25
+277,PROD_277,DailyChoice Premium Boxes 277,Storage,Boxes,DailyChoice,Budget,14.1,0.35,9.17
+278,PROD_278,UrbanHome Professional Boxes 278,Storage,Boxes,UrbanHome,Premium,70.53,0.34,46.55
+279,PROD_279,CleanMax Multi-Purpose Boxes 279,Storage,Boxes,CleanMax,Budget,16.91,0.36,10.82
+280,PROD_280,FamilyPlus Modern Boxes 280,Storage,Boxes,FamilyPlus,Budget,40.22,0.32,27.35
+281,PROD_281,CleanMax Professional Boxes 281,Storage,Boxes,CleanMax,Budget,52.59,0.44,29.45
+282,PROD_282,NovaHouse Compact Boxes 282,Storage,Boxes,NovaHouse,Premium,47.22,0.36,30.22
+283,PROD_283,UrbanHome Classic Boxes 283,Storage,Boxes,UrbanHome,Premium,27.96,0.44,15.66
+284,PROD_284,UrbanHome Ergonomic Shelving 284,Storage,Shelving,UrbanHome,Premium,113.26,0.32,77.02
+285,PROD_285,UrbanHome Smart Shelving 285,Storage,Shelving,UrbanHome,Premium,53.59,0.42,31.08
+286,PROD_286,UrbanHome Smart Shelving 286,Storage,Shelving,UrbanHome,Premium,22.38,0.42,12.98
+287,PROD_287,EasyCare Smart Shelving 287,Storage,Shelving,EasyCare,Budget,53.6,0.44,30.02
+288,PROD_288,PrimeHouse Smart Shelving 288,Storage,Shelving,PrimeHouse,Premium,30.84,0.31,21.28
+289,PROD_289,UrbanHome Multi-Purpose Shelving 289,Storage,Shelving,UrbanHome,Premium,116.37,0.43,66.33
+290,PROD_290,BrightHome Classic Shelving 290,Storage,Shelving,BrightHome,Standard,28.56,0.3,19.99
+291,PROD_291,BrightHome Organic Shelving 291,Storage,Shelving,BrightHome,Standard,71.91,0.28,51.78
+292,PROD_292,ComfortLine Smart Shelving 292,Storage,Shelving,ComfortLine,Standard,39.53,0.26,29.25
+293,PROD_293,UrbanHome Essential Shelving 293,Storage,Shelving,UrbanHome,Premium,61.91,0.29,43.96
+294,PROD_294,BrightHome Professional Shelving 294,Storage,Shelving,BrightHome,Standard,58.5,0.43,33.35
+295,PROD_295,UrbanHome Organic Shelving 295,Storage,Shelving,UrbanHome,Premium,91.11,0.36,58.31
+296,PROD_296,FamilyPlus Professional Shelving 296,Storage,Shelving,FamilyPlus,Budget,19.25,0.34,12.7
+297,PROD_297,PureLife Organic Organizers 297,Storage,Organizers,PureLife,Standard,27.97,0.35,18.18
+298,PROD_298,ComfortLine Smart Organizers 298,Storage,Organizers,ComfortLine,Standard,32.88,0.44,18.41
+299,PROD_299,BrightHome Durable Organizers 299,Storage,Organizers,BrightHome,Standard,62.36,0.28,44.9
+300,PROD_300,NovaHouse Organic Organizers 300,Storage,Organizers,NovaHouse,Premium,60.21,0.44,33.72
+301,PROD_301,ComfortLine Essential Organizers 301,Storage,Organizers,ComfortLine,Standard,39.4,0.26,29.16
+302,PROD_302,SmartHome Smart Organizers 302,Storage,Organizers,SmartHome,Standard,51.22,0.43,29.2
+303,PROD_303,FamilyPlus Eco-Friendly Organizers 303,Storage,Organizers,FamilyPlus,Budget,14.21,0.41,8.38
+304,PROD_304,ComfortLine Comfort Organizers 304,Storage,Organizers,ComfortLine,Standard,36.54,0.43,20.83
+305,PROD_305,UrbanHome Eco-Friendly Organizers 305,Storage,Organizers,UrbanHome,Premium,63.98,0.35,41.59
+306,PROD_306,FamilyPlus Compact Organizers 306,Storage,Organizers,FamilyPlus,Budget,59.45,0.28,42.8
+307,PROD_307,NovaHouse Classic Organizers 307,Storage,Organizers,NovaHouse,Premium,122.06,0.42,70.79
+308,PROD_308,BrightHome Modern Organizers 308,Storage,Organizers,BrightHome,Standard,26.95,0.34,17.79
+309,PROD_309,NovaHouse Durable Organizers 309,Storage,Organizers,NovaHouse,Premium,121.44,0.29,86.22
+310,PROD_310,UrbanHome Comfort Hangers 310,Storage,Hangers,UrbanHome,Premium,98.06,0.42,56.87
+311,PROD_311,BrightHome Professional Hangers 311,Storage,Hangers,BrightHome,Standard,34.55,0.45,19.0
+312,PROD_312,ComfortLine Organic Hangers 312,Storage,Hangers,ComfortLine,Standard,82.1,0.33,55.01
+313,PROD_313,NovaHouse Eco-Friendly Hangers 313,Storage,Hangers,NovaHouse,Premium,91.25,0.39,55.66
+314,PROD_314,FreshWay Compact Hangers 314,Storage,Hangers,FreshWay,Budget,9.0,0.45,4.95
+315,PROD_315,HomePro Lightweight Hangers 315,Storage,Hangers,HomePro,Standard,70.86,0.3,49.6
+316,PROD_316,FreshWay Smart Hangers 316,Storage,Hangers,FreshWay,Budget,37.95,0.37,23.91
+317,PROD_317,DailyChoice Classic Hangers 317,Storage,Hangers,DailyChoice,Budget,58.24,0.36,37.27
+318,PROD_318,PrimeHouse Classic Hangers 318,Storage,Hangers,PrimeHouse,Premium,81.2,0.36,51.97
+319,PROD_319,UrbanHome Compact Hangers 319,Storage,Hangers,UrbanHome,Premium,22.36,0.45,12.3
+320,PROD_320,PureLife Eco-Friendly Hangers 320,Storage,Hangers,PureLife,Standard,28.06,0.32,19.08
+321,PROD_321,SmartHome Modern Hangers 321,Storage,Hangers,SmartHome,Standard,68.47,0.36,43.82
+322,PROD_322,EcoLiving Comfort Hangers 322,Storage,Hangers,EcoLiving,Budget,18.54,0.42,10.75
+323,PROD_323,GreenLeaf Organic Containers 323,Storage,Containers,GreenLeaf,Standard,34.8,0.31,24.01
+324,PROD_324,NovaHouse Modern Containers 324,Storage,Containers,NovaHouse,Premium,91.22,0.27,66.59
+325,PROD_325,NovaHouse Essential Containers 325,Storage,Containers,NovaHouse,Premium,53.37,0.37,33.62
+326,PROD_326,UrbanHome Ergonomic Containers 326,Storage,Containers,UrbanHome,Premium,79.06,0.37,49.81
+327,PROD_327,UrbanHome Comfort Containers 327,Storage,Containers,UrbanHome,Premium,91.11,0.41,53.75
+328,PROD_328,SmartHome Ergonomic Containers 328,Storage,Containers,SmartHome,Standard,52.7,0.41,31.09
+329,PROD_329,SmartHome Ergonomic Containers 329,Storage,Containers,SmartHome,Standard,22.4,0.28,16.13
+330,PROD_330,DailyChoice Professional Containers 330,Storage,Containers,DailyChoice,Budget,61.03,0.28,43.94
+331,PROD_331,DailyChoice Lightweight Containers 331,Storage,Containers,DailyChoice,Budget,14.93,0.39,9.11
+332,PROD_332,EcoLiving Eco-Friendly Containers 332,Storage,Containers,EcoLiving,Budget,46.54,0.26,34.44
+333,PROD_333,DailyChoice Comfort Containers 333,Storage,Containers,DailyChoice,Budget,39.88,0.29,28.31
+334,PROD_334,PureLife Durable Containers 334,Storage,Containers,PureLife,Standard,40.1,0.25,30.08
+335,PROD_335,PrimeHouse Smart Containers 335,Storage,Containers,PrimeHouse,Premium,87.48,0.43,49.86
+336,PROD_336,PrimeHouse Modern Plant Care 336,Garden,Plant Care,PrimeHouse,Premium,58.76,0.45,32.32
+337,PROD_337,PrimeHouse Compact Plant Care 337,Garden,Plant Care,PrimeHouse,Premium,22.29,0.49,11.37
+338,PROD_338,NovaHouse Eco-Friendly Plant Care 338,Garden,Plant Care,NovaHouse,Premium,15.47,0.26,11.45
+339,PROD_339,PrimeHouse Premium Plant Care 339,Garden,Plant Care,PrimeHouse,Premium,161.32,0.39,98.41
+340,PROD_340,NovaHouse Essential Plant Care 340,Garden,Plant Care,NovaHouse,Premium,156.86,0.5,78.43
+341,PROD_341,PureLife Lightweight Plant Care 341,Garden,Plant Care,PureLife,Standard,110.09,0.34,72.66
+342,PROD_342,FamilyPlus Durable Plant Care 342,Garden,Plant Care,FamilyPlus,Budget,94.69,0.45,52.08
+343,PROD_343,ComfortLine Smart Plant Care 343,Garden,Plant Care,ComfortLine,Standard,67.68,0.32,46.02
+344,PROD_344,HomePro Eco-Friendly Plant Care 344,Garden,Plant Care,HomePro,Standard,119.74,0.33,80.23
+345,PROD_345,UrbanHome Multi-Purpose Plant Care 345,Garden,Plant Care,UrbanHome,Premium,135.51,0.26,100.28
+346,PROD_346,NovaHouse Modern Plant Care 346,Garden,Plant Care,NovaHouse,Premium,112.12,0.49,57.18
+347,PROD_347,DailyChoice Organic Plant Care 347,Garden,Plant Care,DailyChoice,Budget,78.0,0.42,45.24
+348,PROD_348,EcoLiving Organic Plant Care 348,Garden,Plant Care,EcoLiving,Budget,56.1,0.31,38.71
+349,PROD_349,CleanMax Lightweight Garden Tools 349,Garden,Garden Tools,CleanMax,Budget,19.19,0.28,13.82
+350,PROD_350,HomePro Durable Garden Tools 350,Garden,Garden Tools,HomePro,Standard,20.43,0.5,10.21
+351,PROD_351,UrbanHome Organic Garden Tools 351,Garden,Garden Tools,UrbanHome,Premium,127.75,0.31,88.15
+352,PROD_352,GreenLeaf Classic Garden Tools 352,Garden,Garden Tools,GreenLeaf,Standard,68.92,0.43,39.28
+353,PROD_353,FreshWay Ergonomic Garden Tools 353,Garden,Garden Tools,FreshWay,Budget,72.94,0.36,46.68
+354,PROD_354,PureLife Lightweight Garden Tools 354,Garden,Garden Tools,PureLife,Standard,113.86,0.28,81.98
+355,PROD_355,FamilyPlus Essential Garden Tools 355,Garden,Garden Tools,FamilyPlus,Budget,93.58,0.31,64.57
+356,PROD_356,CleanMax Lightweight Garden Tools 356,Garden,Garden Tools,CleanMax,Budget,73.51,0.25,55.13
+357,PROD_357,ComfortLine Smart Garden Tools 357,Garden,Garden Tools,ComfortLine,Standard,89.18,0.5,44.59
+358,PROD_358,BrightHome Multi-Purpose Garden Tools 358,Garden,Garden Tools,BrightHome,Standard,10.99,0.43,6.26
+359,PROD_359,SmartHome Comfort Garden Tools 359,Garden,Garden Tools,SmartHome,Standard,110.22,0.31,76.05
+360,PROD_360,EcoLiving Smart Garden Tools 360,Garden,Garden Tools,EcoLiving,Budget,44.71,0.27,32.64
+361,PROD_361,DailyChoice Durable Garden Tools 361,Garden,Garden Tools,DailyChoice,Budget,59.6,0.43,33.97
+362,PROD_362,GreenLeaf Professional Outdoor Decor 362,Garden,Outdoor Decor,GreenLeaf,Standard,48.57,0.42,28.17
+363,PROD_363,NovaHouse Durable Outdoor Decor 363,Garden,Outdoor Decor,NovaHouse,Premium,22.08,0.28,15.9
+364,PROD_364,NovaHouse Smart Outdoor Decor 364,Garden,Outdoor Decor,NovaHouse,Premium,28.17,0.5,14.09
+365,PROD_365,FamilyPlus Compact Outdoor Decor 365,Garden,Outdoor Decor,FamilyPlus,Budget,16.16,0.49,8.24
+366,PROD_366,GreenLeaf Advanced Outdoor Decor 366,Garden,Outdoor Decor,GreenLeaf,Standard,19.74,0.38,12.24
+367,PROD_367,SmartHome Organic Outdoor Decor 367,Garden,Outdoor Decor,SmartHome,Standard,34.39,0.47,18.23
+368,PROD_368,DailyChoice Lightweight Outdoor Decor 368,Garden,Outdoor Decor,DailyChoice,Budget,69.38,0.46,37.47
+369,PROD_369,SmartHome Durable Outdoor Decor 369,Garden,Outdoor Decor,SmartHome,Standard,50.36,0.43,28.71
+370,PROD_370,SmartHome Smart Outdoor Decor 370,Garden,Outdoor Decor,SmartHome,Standard,59.66,0.29,42.36
+371,PROD_371,UrbanHome Essential Outdoor Decor 371,Garden,Outdoor Decor,UrbanHome,Premium,99.23,0.46,53.58
+372,PROD_372,FreshWay Classic Outdoor Decor 372,Garden,Outdoor Decor,FreshWay,Budget,19.87,0.43,11.33
+373,PROD_373,NovaHouse Comfort Outdoor Decor 373,Garden,Outdoor Decor,NovaHouse,Premium,41.05,0.31,28.32
+374,PROD_374,PrimeHouse Ergonomic Outdoor Decor 374,Garden,Outdoor Decor,PrimeHouse,Premium,110.82,0.47,58.73
+375,PROD_375,PureLife Premium Watering 375,Garden,Watering,PureLife,Standard,100.14,0.3,70.1
+376,PROD_376,FamilyPlus Lightweight Watering 376,Garden,Watering,FamilyPlus,Budget,92.17,0.27,67.28
+377,PROD_377,HomePro Smart Watering 377,Garden,Watering,HomePro,Standard,69.31,0.37,43.67
+378,PROD_378,NovaHouse Organic Watering 378,Garden,Watering,NovaHouse,Premium,72.41,0.45,39.83
+379,PROD_379,GreenLeaf Eco-Friendly Watering 379,Garden,Watering,GreenLeaf,Standard,41.13,0.26,30.44
+380,PROD_380,ComfortLine Premium Watering 380,Garden,Watering,ComfortLine,Standard,53.62,0.41,31.64
+381,PROD_381,UrbanHome Comfort Watering 381,Garden,Watering,UrbanHome,Premium,156.49,0.27,114.24
+382,PROD_382,NovaHouse Comfort Watering 382,Garden,Watering,NovaHouse,Premium,36.48,0.49,18.6
+383,PROD_383,EcoLiving Essential Watering 383,Garden,Watering,EcoLiving,Budget,52.9,0.46,28.57
+384,PROD_384,HomePro Lightweight Watering 384,Garden,Watering,HomePro,Standard,103.91,0.28,74.82
+385,PROD_385,ComfortLine Professional Watering 385,Garden,Watering,ComfortLine,Standard,54.78,0.36,35.06
+386,PROD_386,CleanMax Smart Watering 386,Garden,Watering,CleanMax,Budget,50.24,0.39,30.65
+387,PROD_387,UrbanHome Ergonomic Watering 387,Garden,Watering,UrbanHome,Premium,89.51,0.37,56.39
+388,PROD_388,CleanMax Essential Seeds 388,Garden,Seeds,CleanMax,Budget,34.46,0.37,21.71
+389,PROD_389,UrbanHome Eco-Friendly Seeds 389,Garden,Seeds,UrbanHome,Premium,77.37,0.43,44.1
+390,PROD_390,BrightHome Premium Seeds 390,Garden,Seeds,BrightHome,Standard,103.2,0.37,65.02
+391,PROD_391,BrightHome Compact Seeds 391,Garden,Seeds,BrightHome,Standard,29.06,0.37,18.31
+392,PROD_392,NovaHouse Comfort Seeds 392,Garden,Seeds,NovaHouse,Premium,27.2,0.34,17.95
+393,PROD_393,FamilyPlus Comfort Seeds 393,Garden,Seeds,FamilyPlus,Budget,82.13,0.29,58.31
+394,PROD_394,DailyChoice Lightweight Seeds 394,Garden,Seeds,DailyChoice,Budget,72.7,0.35,47.26
+395,PROD_395,EasyCare Professional Seeds 395,Garden,Seeds,EasyCare,Budget,28.77,0.32,19.56
+396,PROD_396,DailyChoice Premium Seeds 396,Garden,Seeds,DailyChoice,Budget,48.79,0.47,25.86
+397,PROD_397,HomePro Smart Seeds 397,Garden,Seeds,HomePro,Standard,82.34,0.25,61.76
+398,PROD_398,UrbanHome Premium Seeds 398,Garden,Seeds,UrbanHome,Premium,120.59,0.28,86.82
+399,PROD_399,GreenLeaf Organic Seeds 399,Garden,Seeds,GreenLeaf,Standard,83.12,0.3,58.18
+400,PROD_400,EcoLiving Comfort Seeds 400,Garden,Seeds,EcoLiving,Budget,83.86,0.46,45.28

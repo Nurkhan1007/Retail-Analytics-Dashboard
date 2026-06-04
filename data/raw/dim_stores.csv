@@ -1,0 +1,31 @@
+store_id,store_code,store_name,region,city,store_type,performance_factor
+1,STORE_001,Store_001,North,North City,Mall,1.0
+2,STORE_002,Store_002,North,River Town,Outlet,1.04
+3,STORE_003,Store_003,North,River Town,Street,0.89
+4,STORE_004,Store_004,North,River Town,Street,1.04
+5,STORE_005,Store_005,South,Palm Coast,Street,0.96
+6,STORE_006,Store_006,South,South City,Street,1.05
+7,STORE_007,Store_007,South,Sunny Bay,Street,0.9
+8,STORE_008,Store_008,South,South City,Mall,1.1
+9,STORE_009,Store_009,South,Sunny Bay,Outlet,0.99
+10,STORE_010,Store_010,East,Mountain View,Street,0.79
+11,STORE_011,Store_011,East,Crystal Valley,Street,0.86
+12,STORE_012,Store_012,East,Sunrise Point,Street,0.86
+13,STORE_013,Store_013,West,Blue Harbor,Outlet,0.87
+14,STORE_014,Store_014,West,Rocky Creek,Outlet,0.92
+15,STORE_015,Store_015,West,Lake Point,Street,0.85
+16,STORE_016,Store_016,Central,Central City,Mall,1.14
+17,STORE_017,Store_017,Central,Green Valley,Street,1.1
+18,STORE_018,Store_018,Central,Maple Grove,Street,1.23
+19,STORE_019,Store_019,Central,Maple Grove,Street,1.06
+20,STORE_020,Store_020,Central,Maple Grove,Mall,1.07
+21,STORE_021,Store_021,Central,Central City,Outlet,1.16
+22,STORE_022,Store_022,Central,Oakwood,Mall,1.2
+23,STORE_023,Store_023,Capital,Capital City,Mall,1.16
+24,STORE_024,Store_024,Capital,Capital City,Street,1.27
+25,STORE_025,Store_025,Capital,Financial Center,Outlet,1.21
+26,STORE_026,Store_026,Capital,Financial Center,Mall,1.13
+27,STORE_027,Store_027,Capital,Downtown,Mall,1.1
+28,STORE_028,Store_028,Capital,Downtown,Street,1.39
+29,STORE_029,Store_029,Capital,Downtown,Mall,1.15
+30,STORE_030,Store_030,Capital,Capital City,Outlet,1.35
