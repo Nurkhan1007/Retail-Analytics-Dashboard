@@ -212,6 +212,24 @@ Power BI
 
 ---
 
+# Dashboard Preview
+
+## Executive Dashboard
+
+![Executive Dashboard](powerbi/01_executive_dashboard.png)
+
+## Sales Analytics
+
+![Sales Analytics](powerbi/02_sales_analytics.png)
+
+## Product ABC Analysis
+
+![ABC Analysis](powerbi/03_abc_analysis.png)
+
+## Time Intelligence
+
+![Time Intelligence](powerbi/04_time_intelligence.png)
+
 # Использование DAX
 
 В проекте реализованы сложные аналитические расчеты с использованием языка DAX.
